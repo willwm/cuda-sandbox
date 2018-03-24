@@ -14,6 +14,7 @@ Inspired by: [CUDA is Like Owning a Supercomputer | Hackaday](https://hackaday.c
     * [cuBLAS | NVIDIA Developer](https://developer.nvidia.com/cublas)
     * [CUDA Math Library | NVIDIA Developer](https://developer.nvidia.com/cuda-math-library)
     * [cuSPARSE | NVIDIA Developer](https://developer.nvidia.com/cusparse)
+    * [nvGRAPH | NVIDIA Developer](https://developer.nvidia.com/nvgraph)
 
 * [CUDA Code Samples | NVIDIA Developer](https://developer.nvidia.com/cuda-code-samples)
 

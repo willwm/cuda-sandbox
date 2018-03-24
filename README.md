@@ -1,6 +1,10 @@
 # cuda-sandbox
 Inspired by: [CUDA is Like Owning a Supercomputer | Hackaday](https://hackaday.com/2018/03/19/cuda-is-like-owning-a-supercomputer/)
 
+## Setup
+
+* [Installing CUDA Toolkit on Windows - YouTube](https://www.youtube.com/watch?v=cL05xtTocmY)
+
 ## Link Dump
 
 * [CUDA Toolkit 9.1 Download | NVIDIA Developer](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
